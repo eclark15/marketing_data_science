@@ -1,4 +1,3 @@
-# Demo 
+# Data Science for Marketing Analytics 
 
-some description !
-more content 
+Python files from the textbook for each chapter 
