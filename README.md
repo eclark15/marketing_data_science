@@ -1,3 +1,3 @@
 # Data Science for Marketing Analytics 
 
-Python files from the textbook for each chapter 
+Jupyter Notebook files from each chapter of the textbook. 
